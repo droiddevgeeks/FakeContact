@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"contact": [{
+			"fname": "Kishan",
+			"lname": "Maurya",
+			"phone": "+918433719326",
+			"email": "kishankr.maurya@gmail.com"
+		},
+		{
+			"fname": "Kishan",
+			"lname": "Maurya",
+			"phone": "+918433719326",
+			"email": "kishankr.maurya@gmail.com"
+		},
+		{
+			"fname": "Kishan",
+			"lname": "Maurya",
+			"phone": "+918433719326",
+			"email": "kishankr.maurya@gmail.com"
+		}
+	]
 }
